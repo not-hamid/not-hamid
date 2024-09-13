@@ -1,4 +1,6 @@
-![logo]([https://github.com/not-hamid/not-hamid/blob/main/Neon%20Glitch%20Twitch%20Banner%20.gif](https://github.com/not-hamid/not-hamid/blob/main/github-contribution-grid-snake-dark.svg))
+![Contribution Snake](https://raw.githubusercontent.com/not-hamid/not-hamid/main/github-contribution-grid-snake-dark.svg)
+
+
 <h1 align="center">Hi 👋, I'm Hamid Hussain</h1>
 <h3 align="center">A passionate frontend and software developer from Pakistan</h3>
 
